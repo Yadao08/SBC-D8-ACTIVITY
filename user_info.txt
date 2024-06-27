@@ -1,0 +1,4 @@
+REGISTERED: Username =  rex *** Password =  123456
+PASSWORD CHANGED: Username: rex - - - New Password: 1234
+PASSWORD CHANGED: Username: rex123 - - - New Password: rex1234
+PASSWORD CHANGED: Username: akeeh - - - New Password: 1234
